@@ -1,27 +1,29 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T19:16:26.358Z'
-dateModified: '2016-03-07T19:16:02.585Z'
-title: Een gezonde voedingvoor een gezond leven
+datePublished: '2016-03-07T19:25:23.842Z'
+dateModified: '2016-03-07T19:24:54.795Z'
+title: Een gezonde voeding voor een gezond leven
 author: []
+sourcePath: _posts/2016-03-07-een-gezonde-voedingvoor-een-gezond-leven.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-07-een-gezonde-voedingvoor-een-gezond-leven.md
-published: true
 url: een-gezonde-voedingvoor-een-gezond-leven/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/994006e5-509f-442e-8c6a-fe3d2c7b207c.jpg)
+
 # Een gezonde voeding  
 _voor een gezond leven_
 
