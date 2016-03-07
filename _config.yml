@@ -1,7 +1,7 @@
 name: vivit
 favicon: null
-layout_spectrum: 0.14691253961063921
-typography_spectrum: 0.7314536347985268
+layout_spectrum: 0.55843
+typography_spectrum: 0.14106
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.7411545107606798
-  lightness: 0.23610812332481146
-  saturation: 0.4481205327901989
-  rhythmicContrast: 0.564731608144939
+    - '#fefefe'
+    - '#22323b'
+    - '#159126'
+    - '#816361'
+    - '#ca2f20'
+  brandStrength: 0.875
+  lightness: 0.6875
+  saturation: 0.625
+  rhythmicContrast: 0.5
 purpose: []
