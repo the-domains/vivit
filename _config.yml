@@ -1,7 +1,7 @@
 name: vivit
 favicon: null
-layout_spectrum: 0.43156
-typography_spectrum: 0.24791
+layout_spectrum: 0.0359
+typography_spectrum: 0.35643
 title: Bij Vitiv kunt u terug voor al uw biologische producten. Ook staan er heerlijke recepten met deze gezonde ingrediënten op de site.
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#edede2'
-    - '#68352a'
-    - '#9a9573'
-    - '#060201'
-    - '#e7d33a'
-  brandStrength: 0.3125
-  lightness: 0.75
-  saturation: 0.625
-  rhythmicContrast: 0.5
+    - '#ffffff'
+    - '#8ac543'
+    - '#046739'
+    - '#518b68'
+    - '#adcbbc'
+  brandStrength: 1
+  lightness: 0.375
+  saturation: 0.75
+  rhythmicContrast: 0.25
 purpose: []
